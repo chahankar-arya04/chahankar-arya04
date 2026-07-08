@@ -1,272 +1,222 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:0EA5E9,100:22D3EE&text=Arya%20Chahankar&fontSize=45&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
-
-# SOC Analyst • Application Security • VAPT
-
-### Detect • Analyze • Defend • Secure
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=22D3EE&center=true&width=700&lines=SOC+Analyst+at+RootSecured;Application+Security+%26+VAPT;Threat+Detection+using+Wazuh;OWASP+Top+10+Security+Testing;Bug+Bounty+Learner;Always+Learning+Something+New"/>
-
-</div>
-
----
-
-# 👩🏻‍💻 About Me
-
-Hi, I'm **Arya Chahankar**, a Security Analyst focused on **Blue Team Operations** and **Application Security**.
-
-Currently working as a **SOC Analyst at RootSecured**, where I monitor security events, investigate alerts, and support incident response using **Wazuh SIEM**.
-
-Previously worked in **Web, API and Mobile Application VAPT**, performing manual security testing against real-world applications using Burp Suite, OWASP ZAP and MobSF.
-
-Outside work, I continuously improve my skills through:
-
-- 🔵 PortSwigger Web Security Academy
-- 🔵 TryHackMe
-- 🔵 VulnHub
-- 🔵 Com Olho Bug Bounty Platform
-- 🔵 Personal Security Labs
-- 🔵 Security Research
-
-I enjoy understanding **how attacks work** and building the defensive skills required to detect and prevent them.
-
----
-
-# 🔐 Current Focus
-
-✔ Security Monitoring
-
-✔ Incident Detection
-
-✔ Alert Triage
-
-✔ Threat Hunting Fundamentals
-
-✔ Web Application Security
-
-✔ API Security
-
-✔ Authentication Testing
-
-✔ OWASP Top 10
-
-✔ Bug Bounty
-
-✔ SOC Automation
-
----
-
-# 💼 Professional Experience
-
-## 🛡 SOC Analyst
-**RootSecured**
-
-- Security Monitoring
-- Alert Investigation
-- Wazuh SIEM
-- Log Analysis
-- Incident Support
-- Daily Security Operations
-- Threat Detection
-- Documentation
-
----
-
-## 🔍 Cyber Security Associate (VAPT)
-
-Performed manual security testing on
-
-- Web Applications
-- REST APIs
-- Android Applications
-
-Security Areas
-
-- Authentication
-- Authorization
-- Session Management
-- Access Control
-- File Upload Testing
-- Input Validation
-- OWASP Top 10
-
-Tools Used
-
-- Burp Suite
-- OWASP ZAP
-- MobSF
-- Postman
-- Wireshark
-
----
-
-# 🧠 Technical Skills
-
-## Blue Team
-
-- Wazuh SIEM
-- Alert Triage
-- Log Analysis
-- Threat Detection
-- Incident Investigation
-- MITRE ATT&CK Basics
-
----
-
-## Application Security
-
-- OWASP Top 10
-- Authentication
-- Authorization
-- Session Management
-- API Security
-- Web Security
-- Mobile Security
-
----
-
-## Security Tools
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,docker"/>
-
-</p>
-
-Additional Tools
-
-- Burp Suite
-- OWASP ZAP
-- Nmap
-- Wireshark
-- MobSF
-- Metasploit
-- Wazuh
-
----
-
-# 📚 Security Learning Platforms
-
-| Platform | Status |
-|----------|--------|
-| PortSwigger Academy | Active |
-| TryHackMe | Active |
-| VulnHub | Active |
-| Com Olho | Active |
-| Personal Labs | Active |
-
----
-
-# 🚀 Featured Work
-
-## 🔐 Proactive Ransomware Early Warning System
-
-Python based proof-of-concept that performs
-
-- Real-time file monitoring
-- Entropy analysis
-- Process monitoring
-- Early ransomware detection
-- Automated alert generation
-
----
-
-## 🛡 Web & API Security Testing
-
-Hands-on security testing involving
-
-- Authentication Testing
-- Access Control
-- Session Security
-- File Upload Security
-- OWASP Top 10 Validation
-
----
-
-## 📊 Wazuh SOC Lab
-
-Practical SOC environment for learning
-
-- Log Collection
-- Alert Analysis
-- Security Monitoring
-- Incident Investigation
-
----
-
-# 📄 Research Publications
-
-📌 Proactive Ransomware Early Warning System
-
-📌 Proposed Model to Identify Drug Trafficking on Social Media
-
-Research Areas
-
-- Cyber Security
-- Artificial Intelligence
-- Malware Detection
-- Digital Investigation
-
----
-
-# 🏆 Achievements
-
-🏅 Published Research Papers
-
-🏅 3500+ Reputation on Com Olho
-
-🏅 Practical Security Labs
-
-🏅 EC-Council Ethical Hacking Essentials
-
----
-
-# 📈 GitHub Statistics
+<details>
+<summary><b>Expand — SOC Analyst @ RootSecured</b></summary>
+<br/>
+
+- Monitor security telemetry across endpoints, network, and identity sources
+- Triage incoming alerts and separate true positives from noise
+- Investigate suspicious activity and document findings for handoff
+- Operate and tune **Wazuh SIEM** for detection coverage
+- Perform log analysis to reconstruct attacker timelines
+- Support the incident response process from detection through resolution
+
+</details>
+
+<details>
+<summary><b>Expand — Cyber Security Associate (VAPT)</b></summary>
+<br/>
+
+- Conducted web application security assessments against the OWASP Top 10
+- Tested REST/API endpoints for authentication and authorization flaws
+- Performed Android application security testing using MobSF
+- Assessed session management implementations for common weaknesses
+- Used Burp Suite and OWASP ZAP as primary testing platforms
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
+
+## `$ uname -a --stack`
+
+<table width="100%">
+<tr>
+<th width="25%">Category</th>
+<th width="75%">Tools</th>
+</tr>
+<tr>
+<td><b>Operating Systems</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-0A0C10?style=flat-square&logo=linux&logoColor=F2A93B"/>
+<img src="https://img.shields.io/badge/Windows-0A0C10?style=flat-square&logo=windows&logoColor=3FA9F5"/>
+</td>
+</tr>
+<tr>
+<td><b>Programming</b></td>
+<td>
+<img src="https://img.shields.io/badge/Python-0A0C10?style=flat-square&logo=python&logoColor=F2A93B"/>
+<img src="https://img.shields.io/badge/Bash-0A0C10?style=flat-square&logo=gnubash&logoColor=3FA9F5"/>
+</td>
+</tr>
+<tr>
+<td><b>Offensive Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/Burp_Suite-0A0C10?style=flat-square&logo=burpsuite&logoColor=F2A93B"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-0A0C10?style=flat-square&logo=owasp&logoColor=3FA9F5"/>
+<img src="https://img.shields.io/badge/MobSF-0A0C10?style=flat-square&logo=android&logoColor=F2A93B"/>
+<img src="https://img.shields.io/badge/Metasploit-0A0C10?style=flat-square&logo=metasploit&logoColor=3FA9F5"/>
+</td>
+</tr>
+<tr>
+<td><b>Defensive / SOC</b></td>
+<td>
+<img src="https://img.shields.io/badge/Wazuh-0A0C10?style=flat-square&logo=wazuh&logoColor=F2A93B"/>
+<img src="https://img.shields.io/badge/Wireshark-0A0C10?style=flat-square&logo=wireshark&logoColor=3FA9F5"/>
+<img src="https://img.shields.io/badge/Nmap-0A0C10?style=flat-square&logo=nmap&logoColor=F2A93B"/>
+</td>
+</tr>
+<tr>
+<td><b>Version Control</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-0A0C10?style=flat-square&logo=git&logoColor=F2A93B"/>
+<img src="https://img.shields.io/badge/GitHub-0A0C10?style=flat-square&logo=github&logoColor=E4E7EB"/>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
+
+## `$ tail -f current_focus.log`
+
+```diff
++ Deepening detection engineering: writing and tuning correlation rules, not just reading them
++ Structured bug bounty practice on real-world scoped targets
++ Building repeatable threat-hunting playbooks from SOC case data
++ Extending existing AppSec/VAPT skill set into cloud-native environments
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
+
+## `$ find . -name "*.project"`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Wazuh SOC Lab
+A self-built home lab replicating SOC detection workflows — log ingestion, rule
+tuning, and alert triage on a live Wazuh deployment.
+<br/><br/>
+`Wazuh` `SIEM` `Detection Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web & API Security Testing
+Hands-on assessments of web applications and REST APIs, mapped against the
+OWASP Top 10, covering auth, session, and access-control flaws.
+<br/><br/>
+`Burp Suite` `OWASP ZAP` `API Security`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Proactive Ransomware Early Warning System
+A research-driven model for detecting ransomware behavior before encryption
+completes, using early-stage behavioral indicators.
+<br/><br/>
+`Threat Detection` `Research` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Personal Security Labs
+Ongoing offensive-security practice across PortSwigger Web Security
+Academy and independent lab environments.
+<br/><br/>
+`PortSwigger Labs` `Practical AppSec`
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
+
+## `$ cat research/*.md`
+
+<table width="100%">
+<tr>
+<td width="70%">
+
+**Proactive Ransomware Early Warning System**
+<br/>
+<sub>A behavioral-detection approach for identifying ransomware activity at the
+early stages of an attack chain, ahead of file-encryption impact.</sub>
+
+</td>
+<td width="30%" align="right">
+<code>Security Research</code>
+</td>
+</tr>
+<tr><td colspan="2"><hr/></td></tr>
+<tr>
+<td width="70%">
+
+**Proposed Model to Identify Drug Trafficking on Social Media**
+<br/>
+<sub>An applied model for surfacing trafficking-related activity patterns on
+social platforms using detection-oriented analysis.</sub>
+
+</td>
+<td width="30%" align="right">
+<code>Applied Research</code>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
+
+## `$ curl learning.feed`
+
+<table width="100%">
+<tr>
+<th align="left" width="35%">Track</th>
+<th align="left" width="65%">Platform</th>
+</tr>
+<tr><td>Bug Bounty Practice</td><td>PortSwigger Web Security Academy · TryHackMe · Com Olho</td></tr>
+<tr><td>Detection Engineering</td><td>Self-directed, applied via Wazuh SOC Lab</td></tr>
+<tr><td>Threat Hunting</td><td>Self-directed, case-driven practice</td></tr>
+<tr><td>Cloud Security</td><td>Self-directed, in progress</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
+
+## `$ ./analytics.sh --render`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=chahankar-arya04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryachahankar&show_icons=true&hide_border=true&bg_color=0A0C10&title_color=F2A93B&text_color=E4E7EB&icon_color=3FA9F5&ring_color=3FA9F5" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryachahankar&layout=compact&hide_border=true&bg_color=0A0C10&title_color=F2A93B&text_color=E4E7EB&langs_count=8" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chahankar-arya04&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aryachahankar&theme=dark&hide_border=true&background=0A0C10&stroke=1E252E&ring=F2A93B&fire=F2A93B&currStreakLabel=3FA9F5&sideLabels=E4E7EB&dates=7C8794" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryachahankar&bg_color=0A0C10&color=3FA9F5&line=F2A93B&point=E4E7EB&area=true&hide_border=true" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E252E&height=2&width=1000" width="100%"/>
 
-# 🔥 GitHub Streak
+## `$ nc connect --all`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chahankar-arya04&theme=tokyonight&hide_border=true"/>
+| Channel | Handle |
+|---|---|
+| LinkedIn | [linkedin.com/in/aryachahankar](https://linkedin.com/in/aryachahankar) |
+| Email | [arya.chahankar.sec@gmail.com](mailto:arya.chahankar.sec@gmail.com) |
+| Location | Nagpur, Maharashtra, India |
 
 </div>
 
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/arya-chahankar-cybersecurityaspirant">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:aryachahankar@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-</p>
-
----
+<br/>
 
 <div align="center">
-
-### "Security is a continuous journey of learning, adapting, and defending."
-
-<img src="https://komarev.com/ghpvc/?username=chahankar-arya04&label=Profile%20Views&color=0e75b6&style=flat"/>
-
+<sub>Detection is a discipline, not a dashboard.</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10141A,100:0A0C10&height=120&section=footer" width="100%"/>
 
