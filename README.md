@@ -368,7 +368,7 @@ social platforms using detection-oriented analysis.</sub>
 | Channel | Handle |
 |---|---|
 | LinkedIn | [linkedin.com/in/aryachahankar](https://linkedin.com/in/aryachahankar) |
-| Email | [arya.chahankar.sec@gmail.com](mailto:arya.chahankar.sec@gmail.com) |
+| Email | [aryachahankar@gmail.com](mailto:aryachahankar@gmail.com) |
 | Location | Nagpur, Maharashtra, India |
 
 </div>
